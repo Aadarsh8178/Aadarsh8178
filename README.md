@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Aadarsh8178&color=blueviolet)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aadarsh8178&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshverma" /> </p>
 
 <h1 align="center">Hi 👋, I'm Aadarsh Verma</h1>
 <h3 align="center">Senior Software Engineer at Level AI</h3>
